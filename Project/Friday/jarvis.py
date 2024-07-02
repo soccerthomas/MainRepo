@@ -6,9 +6,9 @@ import datetime
 
 
 # Set your OpenAI API key here
-OPENAI_API_KEY = 'sk-proj-5gYfUtE1HNfdLiMatSLVT3BlbkFJJbR8NruyXRfYL0VZjVT0'
+OPENAI_API_KEY = '
 
-if not OPENAI_API_KEY or OPENAI_API_KEY == 'sk-proj-5gYfUtE1HNfdLiMatSLVT3BlbkFJJbR8NruyXRfYL0VZjVT0':
+if not OPENAI_API_KEY or OPENAI_API_KEY == :
     raise ValueError("The OpenAI API key is missing or not set correctly in the script")
 
 openai.api_key = OPENAI_API_KEY
