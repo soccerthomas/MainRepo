@@ -4,7 +4,7 @@ import java.util.*;
  * This program is written by: Thomas Lavadinho
  */
 
-public class MazeEscape {
+public class MazeEscape{
      public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
